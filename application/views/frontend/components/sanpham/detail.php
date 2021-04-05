@@ -8,7 +8,6 @@
 							
 							<li class="category3">
 								<a href="<?php echo base_url() ?>/san-pham/<?php $link=$this->Mcategory->category_link($row['catid']); echo $link; ?>" title=""><?php $name=$this->Mcategory->category_name($row['catid']); echo $name; ?></a>
-								
 							</li>
 							
 					</div>
@@ -23,11 +22,11 @@
 							<div class="product-view-price">
 								<div class="pull-left">
 									<span class="price-label">Giá bán:</span>
-									<span class="price"><?php echo number_format($row['price'])?>₫</span>
+									<span class="price"><?php echo number_format($row['price_sale'])?>₫</span>
 								</div>
 								<?php if($row['price_sale']>0&&$row['sale']>0): ?>
 									<div class="product-view-price-old">
-										<span class="price"><?php echo $row['price_sale'] ?>₫</span>
+										<span class="price"><?php echo $row['price'] ?>₫</span>
 										<span class="sale-flag">-<?php echo $row['sale'] ?>%</span>
 									</div>
 								<?php endif; ?>
