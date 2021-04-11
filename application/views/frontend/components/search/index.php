@@ -2,10 +2,10 @@
     <div class="banner-product">
         <div class="container">
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 banner-left">
-               <img src="public/images/banner/15_03_2017_16_50_31_Big-Samsung-Ver-2-595-100.png">
+               <img src="public/images/banners/banner31.png">
             </div>
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 banner-right">
-                <img src="public/images/banner/15_03_2017_16_50_31_Big-Samsung-Ver-2-595-100.png">
+                <img src="public/images/banners/banner12.png">
             </div>
         </div>
     </div>

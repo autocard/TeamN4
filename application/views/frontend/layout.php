@@ -16,9 +16,10 @@
                 echo "Didongsmart - Điện thoại - Link kiện chính hãng";
         ?>
     </title>
+
     <link rel="icon" type="image/x-icon" href="public/images/h2store.jpg">
     <link href="public/css/bootstrap.css" rel="stylesheet">
-    <link href="public/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
     <link href="public/css/lte.css" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
     <link href="public/css/owl.carousel.min.css" rel="stylesheet">
